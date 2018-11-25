@@ -1,0 +1,23 @@
+{
+  "name": "mindful-loading",
+  "version": "1.0.0",
+  "description": "Non-boring loading messages that promote mindfulness in users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madelinecameron/mindful-loading.git"
+  },
+  "keywords": [
+    "loading",
+    "mindfullness"
+  ],
+  "author": "Madeline Cameron <maddie@qnzl.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madelinecameron/mindful-loading/issues"
+  },
+  "homepage": "https://github.com/madelinecameron/mindful-loading#readme"
+}
